@@ -27,7 +27,7 @@ export const config: Config = {
       originBlacklist: null,
     },
     server: {
-      host: "no",
+      host: "donttellanyone.minekeep.gg",
       port: 46625,
     },
     tls: undefined,
