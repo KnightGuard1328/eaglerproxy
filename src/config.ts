@@ -28,7 +28,7 @@ export const config: Config = {
     },
     server: {
       host: "donttellanyone.minekeep.gg",
-      port: 46625,
+      port: 25565,
     },
     tls: undefined,
   },
